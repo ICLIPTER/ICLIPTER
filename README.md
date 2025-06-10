@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **U name it i'll master it**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
