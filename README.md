@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm BIBEK SABAT</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=51C1F7&center=true&vCenter=true&width=480&lines=Hi+I'm+Bibek+Sabat;Full+Stack+Developer+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Innovative+Web+Experiences" alt="Typing SVG" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iclipter&label=Profile%20views&color=0e75b6&style=flat" alt="iclipter" /> </p>
 
