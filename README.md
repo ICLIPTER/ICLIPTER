@@ -194,7 +194,7 @@
 
 <!-- Contribution Statistics and Visuals -->
 <p align="center">
-<img align="left" src="https://tenor.com/view/clark-kent-superman-james-gunn-david-corenswet-dc-gif-10359392521509056040" width="120px" height="150px">
+<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iclipter&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
