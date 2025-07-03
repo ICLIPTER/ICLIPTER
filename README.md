@@ -269,8 +269,8 @@
 
 <h4 align="center"> ✨ Most Stars Repositories</h4>
 
-![](https://m3-markdown-badges.vercel.app/stars/1/1//ICLIPTER/StoreForge-E-comm-App)
-![](https://m3-markdown-badges.vercel.app/stars/1/1//ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
+![](https://m3-markdown-badges.vercel.app/stars/1/1/sumonta056/GitHub-Tutorial)
+![](https://m3-markdown-badges.vercel.app/stars/3/2/sumonta056/SWE-3-2-Semester-Resources)
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=StoreForge-E-comm-APP&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/StoreForge-E-comm-App)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=Fullstack-Netflix-Clone-with-AI-Recommendations&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
