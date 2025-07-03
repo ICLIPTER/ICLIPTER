@@ -269,7 +269,7 @@
 ![](https://m3-markdown-badges.vercel.app/stars/3/2//ICLIPTER/E-comm-Website)
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=StoreForge-E-comm-APP&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/StoreForge-E-comm-App)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=Fullstack-Netflix-Clone-with-AI-Recommendations&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
 
 <h4 align="center"> 🏆 Open Source Repositories</h4>
 
