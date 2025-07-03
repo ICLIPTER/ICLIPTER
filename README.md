@@ -233,15 +233,9 @@
 |  The Future of Web Development with AI & Automation  |  👁️ 518+  |               **[👉 Medium](https://medium.com/@orewa.kai/the-future-of-web-development-with-ai-automation-69714d6115a0)**               |
 |         How to Build an AI App in a Weekend (Even If You Can’t Code)         | 👁️ 1800+  |                            **[👉 Medium](https://medium.com/@orewa.kai/how-to-build-an-ai-app-in-a-weekend-even-if-you-cant-code-cda2bfd3d28a)**                             |
 |         Before the Beginning: A Hypothesis on Precosmic Civilizations                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/before-the-beginning-a-hypothesis-on-precosmic-civilizations-and-the-war-induced-big-bang-203b99c718bf)**                                                   |
-|      First Hackathon Experience and Some Tips for Beginners      |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/p/945063ae8e66)**                                                   |
+|      OpenAI Tools You’re Not Using     |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/openai-tools-youre-not-using-but-should-be-2823b46c59e3)**                                                   |
 | 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Run Frontend &amp; Backend Together with One Command &lpar;No Docker Needed&rpar;](https://dev.to/sumonta056/how-to-run-frontend-backend-together-with-one-command-no-docker-needed-29nd)
-- [Portfolio That Got Me CGPA 4 in university | Built with HTML, CSS &amp; JavaScript](https://medium.com/front-end-weekly/portfolio-that-got-me-cgpa-4-in-university-built-with-html-css-javascript-bcd79c8cd532?source=rss-afb68213da67------2)
-- [How to Get Daily GitHub Follower Updates via Email &lpar;No Coding Needed!&rpar;](https://dev.to/sumonta056/how-to-get-daily-github-follower-updates-via-email-no-coding-needed-1f33)
-- [Portfolio That Got Me CGPA 4 in university | Built with HTML, CSS &amp; JavaScript](https://medium.com/design-bootcamp/portfolio-that-got-me-cgpa-4-in-university-built-with-html-css-javascript-7108489ed766?source=rss-afb68213da67------2)
-- [Portfolio That Got Me CGPA 4 in university | Built with HTML, CSS &amp; JavaScript](https://dev.to/sumonta056/portfolio-that-got-me-cgpa-4-in-university-built-with-html-css-javascript-2api)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
@@ -274,7 +268,7 @@
 ![](https://m3-markdown-badges.vercel.app/stars/1/1//ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
 ![](https://m3-markdown-badges.vercel.app/stars/3/2//ICLIPTER/E-comm-Website)
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Tutorial)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=StoreForge-E-comm-APP&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/StoreForge-E-comm-App)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
 
 <h4 align="center"> 🏆 Open Source Repositories</h4>
