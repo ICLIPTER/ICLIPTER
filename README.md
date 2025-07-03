@@ -20,13 +20,13 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%7C+React+%7C+Node.js;Building+Innovative+Web+Experiences" alt="Typing SVG" />
 
 
-- 🔭 ** I’m Currently learning to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
+- 🔭  I’m Currently learning **to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
 
 - 👯 I’m looking to collaborate on: **Fullstack projects**
 
 - 💬 Ask me about: **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
 
-- ⚡ Fun fact: **U name it i'll master it**
+- ⚡ Fun fact: **I write better code at 2AM than I do after 2 cups of coffee ☕💻**
 
 
 <p align="left">
