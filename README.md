@@ -273,11 +273,11 @@
 
 <h4 align="center"> 🏆 Open Source Repositories</h4>
 
-![](https://m3-markdown-badges.vercel.app/stars/5/3/sumonta056/GitHub-Follower-Notification-Action-Bot)
-![](https://m3-markdown-badges.vercel.app/stars/8/2/sumonta056/sumonta056.github.io)
+![](https://m3-markdown-badges.vercel.app/stars/5/3/ICLIPTER/github-finder)
+![](https://m3-markdown-badges.vercel.app/stars/8/2/ICLIPTER/bibek-s-portfolio)
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Follower-Notification-Action-Bot&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Follower-Notification-Action-Bot)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=sumonta056.github.io&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/sumonta056.github.io)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ICLIPTER&repo=github-finder&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/github-finder)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ICLIPTER&repo=bibek-s-portfolio&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/bibek-s-portfolio)
 
 </div>
 
