@@ -106,12 +106,12 @@
 
  <!-- About Me -->
 <p align='left'>
-- 🎓 <h2>Software Engineering</h2> from Sambalpur University<br>
-- 🌱 Exploring full stack development in-depth<br>
-- ✨ Maintaining a wannabe Astrophysicist mindset<br>
-- 🧠 Learning & contributing to Open Source Projects<br>
-- 🎯 2025 Goals: Switch to a new tech language<br>
-- 🤖 Interests: Watching how AI evolves to replace me 😏<br>
+- 🔭 <b>Software Engineering</b> graduated from <b>SU</b><br>
+- 🌱 I’m currently exploring in depth full stack webdevelopment 😁<br>
+- ✨ Maintaining a Blog & Astrophysicist mindset : Learn & Code <br>
+- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
+- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language <br>
+- 🤖 Interests: Watching how AI evolves to replace me !😏<br>
 </p>
  <!-- About Me -->
 
