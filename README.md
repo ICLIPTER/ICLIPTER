@@ -288,7 +288,7 @@
 <div align="center">
  
 Donate if you wish to support 💗: 
-**[[Bkash - Rocket](https://forms.gle/osWQmMzD166o2LdS7)] [[Buy Me a Book](https://buymeacoffee.com/bibeksabat)]**
+**[[Buy Me a Book](https://buymeacoffee.com/bibeksabat)]**
 
 </div>
 
