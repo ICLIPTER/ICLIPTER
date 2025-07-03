@@ -282,13 +282,13 @@
 </div>
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/sumontasahi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://buymeacoffee.com/bibeksabat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </div>
 
 <div align="center">
  
 Donate if you wish to support 💗: 
-**[[Bkash - Rocket](https://forms.gle/osWQmMzD166o2LdS7)] [[Buy Me a Book](https://www.buymeacoffee.com/sumontasahi)]**
+**[[Bkash - Rocket](https://forms.gle/osWQmMzD166o2LdS7)] [[Buy Me a Book](https://buymeacoffee.com/bibeksabat)]**
 
 </div>
 
