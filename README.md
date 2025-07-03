@@ -27,14 +27,10 @@
 - 💬 Ask me about: **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
 
 - ⚡ Fun fact: **I write better code at 2AM than I do after 2 cups of coffee ☕💻**
-
-
 <p align="left">
 </p>
 
 </div>
-
- <!-- Heading and BIO -->
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
@@ -78,6 +74,7 @@
 <a href="https://twitter.com/bibeksabat" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  /></a>
 <a href="https://linktr.ee/BibekSabat" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  /></a>
 <a href="https://stackoverflow.com/users/30944368/bibek-sabat" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  /></a>
+<a href="https://leetcode.com/u/BibekSabat/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" width="42" height="30" alt="linktree logo"  /></a>
 
 
 
