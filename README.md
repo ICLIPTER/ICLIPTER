@@ -79,16 +79,8 @@
 <a href="https://stackoverflow.com/users/30944368/bibek-sabat" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  /></a>
 <a href="https://leetcode.com/u/BibekSabat/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
 
-
-
-
 </div>
-<!-- Contact Section -->
 
-<!-- Achievement Corner -->
-
- <!--Hacktober Fest-->
- <!--Google Foobar -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <!-- Achievement Corner -->
 
@@ -114,12 +106,12 @@
 
  <!-- About Me -->
 <p align='left'>
-- 🔭 <b>Software Engineering</b> graduated from <b>Sambalpur University</b><br>
-- 🌱 I’m currently exploring in depth full stack webdevelopment 😁<br>
-- ✨ Maintaining a wannabe Astrophysicist Mindset <br>
-- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language<br>
-- ⚡ Interests : Seeing how AI going to replace me !😏<br>
+- 🎓 <h2>Software Engineering</h2> from Sambalpur University<br>
+- 🌱 Exploring full stack development in-depth<br>
+- ✨ Maintaining a wannabe Astrophysicist mindset<br>
+- 🧠 Learning & contributing to Open Source Projects<br>
+- 🎯 2025 Goals: Switch to a new tech language<br>
+- 🤖 Interests: Watching how AI evolves to replace me 😏<br>
 </p>
  <!-- About Me -->
 
