@@ -231,7 +231,7 @@
 |         How to Build an AI App in a Weekend (Even If You Can’t Code)         | 👁️ 1800+  |                            **[👉 Medium](https://medium.com/@orewa.kai/how-to-build-an-ai-app-in-a-weekend-even-if-you-cant-code-cda2bfd3d28a)**                             |
 |         Before the Beginning: A Hypothesis on Precosmic Civilizations                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/before-the-beginning-a-hypothesis-on-precosmic-civilizations-and-the-war-induced-big-bang-203b99c718bf)**                                                   |
 |      OpenAI Tools You’re Not Using     |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/openai-tools-youre-not-using-but-should-be-2823b46c59e3)**                                                   |
-| 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
+| AI and Ethics: How We Avoid Building the Wrong Future |  👁️ 300+  | **[👉 Dev.to](https://medium.com/@orewa.kai/ai-and-ethics-how-we-avoid-building-the-wrong-future-37e376793eb8)** |
 
 <!-- BLOG-POST-LIST:END -->
 
