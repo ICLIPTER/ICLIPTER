@@ -7,17 +7,28 @@
 
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1YJaPvQYLbrgMC00XME4DI3bvT4wmUjRR/view?usp=sharing">
-    <img src="https://img.shields.io/badge/My%20CV-%40Bibek-blue" width="220" height="36">
-  </a>
-  <a href="https://bibek-s-portfolio-jade.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220" height="36">
-  </a>
-  <a href="https://medium.com/@orewa.kai">
-    <img src="https://img.shields.io/badge/Read%20My%20Blogs-My%20Medium-green" width="220" height="36">
-  </a>
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://drive.google.com/file/d/1YJaPvQYLbrgMC00XME4DI3bvT4wmUjRR/view?usp=sharing">
+          <img src="https://img.shields.io/badge/My%20CV-%40Bibek-blue" />
+        </a>
+      </td>
+      <td>
+        <a href="https://bibek-s-portfolio-jade.vercel.app/">
+          <img src="https://img.shields.io/badge/Website-My%20Portfolio-red" />
+        </a>
+      </td>
+      <td>
+        <a href="https://medium.com/@orewa.kai">
+          <img src="https://img.shields.io/badge/Read%20My%20Blogs-My%20Medium-green" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 
  
