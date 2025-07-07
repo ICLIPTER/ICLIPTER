@@ -71,7 +71,7 @@
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iclipter&theme=moltack"  />
 </p>
 
-  <!-- Github Profile Summary Cards -->
+
 
 <!-- Contact Section -->
 
