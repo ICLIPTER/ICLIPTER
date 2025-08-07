@@ -192,12 +192,30 @@
 <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 
 <!-- Contribution Statistics and Visuals -->
-<p align="center">
-<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iclipter&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
-<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
-<img align="left" src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"  width="160px" height="160px">
-</p>
+<div align="center" style="position: relative; width: 100%; height: 220px;">
+
+  <!-- Doctor Strange Left -->
+  <img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"
+       style="position: absolute; left: 0; top: 10px; width: 120px; height: 150px;" />
+
+  <!-- Contribution Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iclipter&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+       style="position: relative; z-index: 3;" />
+
+  <!-- Doctor Strange Right -->
+  <img src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"
+       style="position: absolute; right: 0; top: 10px; width: 130px; height: 150px;" />
+
+  <!-- Batman Behind Goku -->
+  <img src="https://media.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif"
+       style="position: absolute; left: 50%; transform: translateX(-90px); bottom: 10px; z-index: 1; width: 100px;" />
+
+  <!-- Goku in Front -->
+  <img src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"
+       style="position: absolute; left: 50%; transform: translateX(-50%); bottom: 10px; z-index: 2; width: 160px;" />
+
+</div>
+
 
 <!-- Contribution Statistics and Visuals -->
 
