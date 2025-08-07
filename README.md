@@ -216,6 +216,9 @@
 <h3> 📱 Check Out My Blogs's <a href = "https://bibek-s-portfolio-jade.vercel.app/blog" >here</a></h2>
 <img src="images/Photography/3.gif" width="80%" >
 </div>
+<p align='center'>
+<img align='center' src= "https://c.tenor.com/-uumzerEK8EAAAAd/tenor.gif" width="300px"  >
+</p>
 <!-- Instagram + Twitter FollowLinks -->
 <p align='center'>
 <a href="https://twitter.com/bibeksabat" target="blank"><img src="https://i.postimg.cc/4NG4KtGt/Add-a-subheading-3-removebg-preview.png" width="35%" /></a> 
