@@ -223,6 +223,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iclipter&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 <img align="left" src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"  width="160px" height="160px">
+<img align="left" src="https://media.tenor.com/of43hCTlDrUAAAAi/one-piece-z-studios.gif"  width="160px" height="160px">
 </p>
 <!-- Contribution Statistics and Visuals -->
 
