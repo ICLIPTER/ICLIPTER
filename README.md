@@ -1,4 +1,20 @@
 <div align="center">
+    <a href="https://github.com/kawarimidoll/typograssy">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+    </a>
+    <p>
+        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=1C8C8C">
+        <a href="https://bibek-s-portfolio-jade.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+        </a>
+    </p>
+</div>
+
+
+
+<!-- Poster & Links -->
+<div align="center">
 <a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a> 
 </div>
 
@@ -16,10 +32,6 @@
   </a>
 </div>
 
-
-
-
- 
 
  <!-- Heading and BIO -->
 <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
@@ -52,21 +64,35 @@
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
+<!-- Github Commit Stats -->
  <!-- Github Readme Stats -->
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
-</p>
+<div align="center">
+  <div style="flex:0 1 45%; max-width:45%; height:200px; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"
+      alt="stats graph"
+      style="max-width:100%; max-height:100%; display:block; object-fit:contain;"
+    />
+  </div>
+
+  <div style="flex:0 1 45%; max-width:45%; height:200px; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iclipter&theme=moltack"
+      alt="productive time"
+      style="max-width:100%; max-height:100%; display:block; object-fit:contain;"
+    />
+  </div>
+</div>
  <!-- Github Readme Stats -->
+ <!-- Github Commit Stats -->
 
- <!-- Waka Time in Depth Stats -->
 
-  <!-- Waka Time in Depth Stats -->
-
-  <!-- Github Profile Summary Cards -->
+<!-- Github Profile Summary Cards -->
 <p align="center">
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iclipter&theme=moltack"  />
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iclipter&theme=moltack"  />
 </p>
+<!-- Github Profile Summary Cards -->
 
 
 
@@ -198,8 +224,6 @@
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 <img align="left" src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"  width="160px" height="160px">
 </p>
-
-
 <!-- Contribution Statistics and Visuals -->
 
 <!-- Activity Graph -->
@@ -207,9 +231,30 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=iclipter&theme=tokyo-day)
 
 <!-- Activity Graph -->
+<!-- Total year Graph -->
+<div>
+    <p align ="center"> 
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=vue">
+    </p>
+</div>
+
+<!-- Total year Graph -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Contribution Stack -->
+
+
+
+<!-- Contribution Game -->
+<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">My Contribution Game 🐍🎮</i></b> </h1>
+
+![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Contribution Game -->
 
 <!-- Photography Section -->
 <div align="center">
