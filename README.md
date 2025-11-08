@@ -4,7 +4,7 @@
     </a>
     <p>
         <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=1C8C8C">
-        <a href="https://bibek-s-portfolio-jade.vercel.app/">
+        <a href="https://bibeksabat.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
         </a>
@@ -24,7 +24,7 @@
   <a href="https://drive.google.com/file/d/1YJaPvQYLbrgMC00XME4DI3bvT4wmUjRR/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-%40Bibek-blue?style=for-the-badge" />
   </a>
-  <a href="https://bibek-s-portfolio-jade.vercel.app/">
+  <a href="https://bibeksabat.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge" />
   </a>
   <a href="https://medium.com/@orewa.kai">
@@ -258,7 +258,7 @@
 
 <!-- Photography Section -->
 <div align="center">
-<h3> 📱 Check Out My Blogs's <a href = "https://bibek-s-portfolio-jade.vercel.app/blog" >here</a></h2>
+<h3> 📱 Check Out My Blogs's <a href = "https://bibeksabat.vercel.app/blog" >here</a></h2>
 <img src="images/Photography/3.gif" width="80%" >
 </div>
 <p align='center'>
