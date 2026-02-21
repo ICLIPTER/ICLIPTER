@@ -249,8 +249,7 @@
 <!-- Contribution Game -->
 <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">My Contribution Game 🐍🎮</i></b> </h1>
 
-![](https://raw.githubusercontent.com/iclipter/iclipter/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/iclipter/iclipter/output/github-contribution-grid-snake.svggh-light-mode-only)
+<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
