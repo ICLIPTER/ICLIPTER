@@ -249,8 +249,8 @@
 <!-- Contribution Game -->
 <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">My Contribution Game 🐍🎮</i></b> </h1>
 
-![](https://raw.githubusercontent.com/iclipter/iclipter/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/iclipter/iclipter/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 
 <br>
 
