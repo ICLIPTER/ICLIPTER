@@ -1,358 +1,348 @@
-
 <div align="center">
-    <a>
-         <img
-        alt="typograssy"
-        src="https://typograssy.deno.dev/api?text=BIBEK.SABAT-FULLSTACK.DEVELOPER.WELCOME.TO.MY.GITHUB.PROFILE........&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment="
-    />
-    <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=1C8C8C">
-        <a href="https://bibeksabat.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
-        </a>
-    </p>
-</div>
 
+# ⚡ ICLIPTER
 
+### `FULL-STACK DEVELOPER` · `AI BUILDER` · `OPEN-SOURCE ENTHUSIAST`
 
-<!-- Poster & Links -->
-<div align="center">
-<a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a> 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+exist.;Turning+ideas+into+real+products.;Full-Stack+%2B+AI+%2B+Open+Source.;Code.+Create.+Break.+Rebuild.;Plus+Ultra+%E2%9A%A1" />
 
-![](https://hit.yhype.me/github/profile?account_id=61287791)
+<br>
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1YJaPvQYLbrgMC00XME4DI3bvT4wmUjRR/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-%40Bibek-blue?style=for-the-badge" />
-  </a>
-  <a href="https://bibeksabat.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge" />
-  </a>
-  <a href="https://medium.com/@orewa.kai">
-    <img src="https://img.shields.io/badge/Blogs-Medium-green?style=for-the-badge" />
-  </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
+<br><br>
 
- <!-- Heading and BIO -->
-<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%7C+React+%7C+Node.js;Building+Innovative+Web+Experiences" alt="Typing SVG" />
-
-<p align='center'>
-<img align='center' src= "https://giffiles.alphacoders.com/221/221575.gif" width="600px"  >
-</p>
- 
-- 🔭  I’m Currently learning **to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
-
-- 👯 I’m looking to collaborate on: **Fullstack projects**
-
-- 💬 Ask me about: **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
-
-- ⚡ Fun fact: **I write better code at 2AM than I do after 2 cups of coffee ☕💻**
-<p align="left">
-</p>
-
-</div>
-
- <!-- Profile Views - Waka Time Stats - Followers & Stars -->
-
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=iclipter&label=Profile%20views&color=0e75b6&style=flat" alt="iclipter" /> <br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/iclipter"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/iclipter">
-</p>
-
- <!-- Profile Views - Waka Time Stats - Followers & Stars -->
-
-
-## 📊 GitHub Analytics
-
-  <!-- Stats Cards Row 2 -->
-  <table>
-    <tr>
-      <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ICLIPTER&theme=tokyonight" 
-          alt="Repos per Language" 
-        />
-      </td>
-      <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ICLIPTER&theme=tokyonight" 
-          alt="Most Commit Language" 
-        />
-      </td>
-      <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ICLIPTER&theme=tokyonight&utcOffset=5.5" 
-          alt="Productive Time" 
-        />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ICLIPTER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" 
-    alt="GitHub Streak" 
-  />
+<a href="https://bibeksabat.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://github.com/ICLIPTER?tab=repositories">
+<img src="https://img.shields.io/badge/🚀%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:bibeksabat5278@gmail.com">
+<img src="https://img.shields.io/badge/📩%20CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-<!-- Contact Section -->
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+
+</div>
+
+# 🧬 `whoami`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  > Name       : Bibek Sabat                                │
+│  > Alias      : ICLIPTER                                   │
+│  > Role       : Full-Stack Developer                       │
+│  > Focus      : Web • AI • SaaS • Open Source              │
+│  > Currently  : Building & experimenting                   │
+│  > Philosophy : Learn → Build → Break → Improve             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+I'm a **Full-Stack Developer** who enjoys turning random ideas into actual software.
+
+I work across the stack—from interfaces and APIs to databases, AI integrations, deployment, and everything in between.
+
+Currently exploring the intersection of:
+
+**AI × Full-Stack Development × Developer Tools × Creative Technology**
+
+> *"The best way to learn is to build something you're not supposed to be able to build."*
+
+---
+
+# ⚔️ `THE BUILD STACK`
 
 <div align="center">
 
-## 📞 Connect with me
+### 🎨 Frontend
 
-<p align="center">
-<a href="mailto:bibeksabat5278@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
-<a href="https://instagram.com/orewa.kai"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
-<a href="https://in.linkedin.com/in/bibeksabat"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
-<a href="https://medium.com/@orewa.kai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@orewa.kai" height="30" width="42" /></a>
-<a href="https://twitter.com/bibeksabat" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  /></a>
-<a href="https://linktr.ee/BibekSabat" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  /></a>
-<a href="https://stackoverflow.com/users/30944368/bibek-sabat" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  /></a>
-<a href="https://leetcode.com/u/BibekSabat/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java" />
+
+### 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase,firebase" />
+
+### 📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio,java,expo" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman" />
 
 </div>
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <!-- Achievement Corner -->
+---
 
- <!-- Banners 2nd Phase -->
-<p align='center'>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
-</p>
- <!-- Banners 2nd Phase -->
+# 🧠 `WHAT I'M INTO`
 
+<table>
+<tr>
+<td width="50%">
 
- <!-- Typewriting Introduction -->
+### 🤖 Artificial Intelligence
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I+am+also+a+Software+Developer+;Love+Anstronomy+Drawing+Music)](https://git.io/typing-svg)
+Building applications that actually use AI instead of just putting an AI button on them.
 
+* AI-powered applications
+* AI search
+* Image generation
+* AI recommendations
+* Developer tooling
+* Automation
 
+</td>
 
- <!-- Banners 3rd Phase : About Me -->
-<p align = 'right'>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
-</p>
- <!-- Banners 3rd Phase : About Me -->
+<td width="50%">
 
- <!-- About Me -->
-<p align='left'>
-- 🔭 <b>Software Engineering</b> graduated from <b>SU</b><br>
-- 🌱 I’m currently exploring in depth full stack webdevelopment 😁<br>
-- ✨ Maintaining a Blog & Astrophysicist mindset : Learn & Code <br>
-- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language <br>
-- 🤖 Interests: Watching how AI evolves to replace me !😏<br>
-</p>
- <!-- About Me -->
+### 🌐 Full-Stack Engineering
 
-<!-- Skill Section -->
+I enjoy taking an idea from:
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
+`💡 Idea`
 
-<!-- Banners 4th Phase : SpiderMan -->
-<p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
-</p>
-<!-- Banners 4th Phase : SpiderMan -->
+↓
 
-#### 🦖 Competitive Programming
+`🎨 UI`
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+↓
 
-#### 📚 Frontend Development & Frameworks
+`⚙️ Backend`
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+↓
 
-#### ⛏️ Backend Development & Database Services
+`🗄️ Database`
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
+↓
 
-#### 😡 App Development
+`🤖 AI`
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
+↓
 
-#### 🚦 Version Control & Documentation Tools
+`🚀 Production`
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+</td>
+</tr>
 
-<!-- Skill Section -->
+<tr>
+<td>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🎮 Creative Technology
 
-<!-- Contribution Stack -->
-<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+I like experimenting with technology outside traditional web development.
 
-<!-- Contribution Statistics and Visuals -->
-<p align="center">
-<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iclipter&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
-<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
-<img align="left" src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"  width="160px" height="160px">
-</p>
-<!-- Contribution Statistics and Visuals -->
+* Interactive experiences
+* Three.js
+* Visual novels
+* Game development
+* Digital art
+* Animation
 
-<!-- Activity Graph -->
+</td>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=iclipter&theme=tokyo-day)
+<td>
 
-<!-- Activity Graph -->
-<!-- Total year Graph -->
-<div>
-    <p align ="center"> 
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=vue">
-    </p>
+### 🐧 Linux & Open Source
+
+Currently deep into the Linux ecosystem and open-source tooling.
+
+**Build it. Customize it. Break it. Fix it.**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 `PROJECTS FROM THE LAB`
+
+<div align="center">
+
+### 🎬 Cineflix
+
+A modern movie-streaming experience built around real-world movie data, responsive UI, and full-stack architecture.
+
+<a href="https://github.com/ICLIPTER/cineflix">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=cineflix&theme=tokyonight&hide_border=true" />
+</a>
+
+### 🧠 NeuroNest
+
+An AI-powered image application focused on removing unwanted objects from images.
+
+<a href="https://github.com/ICLIPTER/NeuroNest">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=NeuroNest&theme=tokyonight&hide_border=true" />
+</a>
+
+### 🔎 Noesis
+
+An AI-powered search experience inspired by modern intelligent search systems.
+
+<a href="https://github.com/ICLIPTER/noesis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=noesis&theme=tokyonight&hide_border=true" />
+</a>
+
+### 👨‍💻 GitHub Finder
+
+Search GitHub users and explore their profiles, repositories, and activity.
+
+<a href="https://github.com/ICLIPTER/github-finder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=github-finder&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
-<!-- Total year Graph -->
+> ⚡ More experiments, unfinished ideas, weird prototypes and production projects live in my repositories.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Contribution Stack -->
+<a href="https://github.com/ICLIPTER?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-%237C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+---
 
+# 📊 `SYSTEM STATUS`
 
-<!-- Contribution Game -->
-<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">My Contribution Game 🐍🎮</i></b> </h1>
+<div align="center">
 
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+<img src="https://github-readme-stats.vercel.app/api?username=ICLIPTER&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICLIPTER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ICLIPTER&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌌 `THE CURRENT ARC`
+
+```yaml
+current_arc:
+  - building full-stack applications
+  - experimenting with AI
+  - exploring developer tools
+  - learning modern architectures
+  - contributing to open source
+  - making questionable decisions at 2 AM
+
+long_term:
+  - build products people actually use
+  - create open-source tools
+  - experiment with AI + creative technology
+  - keep learning forever
+
+status:
+  coffee: "required"
+  bugs: "inevitable"
+  sleep: "optional"
+  motivation: "100%"
+```
+
+---
+
+# 🎌 `BEYOND THE CODE`
+
+<div align="center">
+
+<img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="180"/>
+
+</div>
+
+Outside of programming, I enjoy:
+
+**🎨 Drawing · 🎵 Music · 🌌 Astronomy · 🎮 Games · 🎬 Anime · 🧪 Experimenting**
+
+I'm especially interested in the weird intersection between **technology, creativity and imagination**.
+
+---
+
+# ✍️ `THINGS I'VE WRITTEN`
+
+<div align="center">
+
+| Article                                                           |                                                                                                                                                |
+| :---------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| **The Future of Web Development with AI & Automation**            |                      [READ →](https://medium.com/@orewa.kai/the-future-of-web-development-with-ai-automation-69714d6115a0)                     |
+| **How to Build an AI App in a Weekend**                           |                 [READ →](https://medium.com/@orewa.kai/how-to-build-an-ai-app-in-a-weekend-even-if-you-cant-code-cda2bfd3d28a)                 |
+| **Before the Beginning: A Hypothesis on Precosmic Civilizations** | [READ →](https://medium.com/@orewa.kai/before-the-beginning-a-hypothesis-on-precosmic-civilizations-and-the-war-induced-big-bang-203b99c718bf) |
+| **OpenAI Tools You're Not Using**                                 |                         [READ →](https://medium.com/@orewa.kai/openai-tools-youre-not-using-but-should-be-2823b46c59e3)                        |
+| **AI and Ethics: How We Avoid Building the Wrong Future**         |                    [READ →](https://medium.com/@orewa.kai/ai-and-ethics-how-we-avoid-building-the-wrong-future-37e376793eb8)                   |
+
+</div>
+
+---
+
+# 🌐 `CONNECT`
+
+<div align="center">
+
+<a href="https://bibeksabat.vercel.app/">
+<img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bibeksabat">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/orewa.kai/">
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@orewa.kai">
+<img src="https://img.shields.io/badge/Medium-111827?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://x.com/bibeksabat">
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `⚡ PLUS ULTRA ⚡`
+
+<img src="https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="280"/>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Contribution Game -->
+**Thanks for visiting my corner of GitHub.**
 
-<!-- Photography Section -->
-<div align="center">
-<h3> 📱 Check Out My Blogs's <a href = "https://bibeksabat.vercel.app/blog" >here</a></h2>
-<img src="images/Photography/3.gif" width="80%" >
-</div>
-<p align='center'>
-<img align='center' src= "https://c.tenor.com/-uumzerEK8EAAAAd/tenor.gif" width="300px"  >
-</p>
-<!-- Instagram + Twitter FollowLinks -->
-<p align='center'>
-<a href="https://twitter.com/bibeksabat" target="blank"><img src="https://i.postimg.cc/4NG4KtGt/Add-a-subheading-3-removebg-preview.png" width="35%" /></a> 
-<a href="https://www.instagram.com/orewa.kai/" target="blank"><img src="https://i.postimg.cc/02GGTLPS/Add-a-subheading-5-removebg-preview.png" width="35%" /></a> 
-</p>
-<!-- Instagram + Twitter FollowLinks -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Photography Section -->
+<br>
 
-<!-- Blog Section -->
-<div align="center">
-<h2>✍🏻 Read My Blogs on [ 
-<a href = "https://medium.com/@orewa.kai" >Medium </a>, 
-<a href = "https://dev.to/bibeksabat" >Dev.to </a>, 
-<a href = "https://www.linkedin.com/in/bibeksabat" >Linkedin</a>]</h2>
+<a href="https://github.com/ICLIPTER">
+<img src="https://img.shields.io/badge/⭐%20Explore%20My%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<br><br>
 
-
-|                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
-| :--------------------------------------------------------------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  The Future of Web Development with AI & Automation  |  👁️ 518+  |               **[👉 Medium](https://medium.com/@orewa.kai/the-future-of-web-development-with-ai-automation-69714d6115a0)**               |
-|         How to Build an AI App in a Weekend (Even If You Can’t Code)         | 👁️ 1800+  |                            **[👉 Medium](https://medium.com/@orewa.kai/how-to-build-an-ai-app-in-a-weekend-even-if-you-cant-code-cda2bfd3d28a)**                             |
-|         Before the Beginning: A Hypothesis on Precosmic Civilizations                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/before-the-beginning-a-hypothesis-on-precosmic-civilizations-and-the-war-induced-big-bang-203b99c718bf)**                                                   |
-|      OpenAI Tools You’re Not Using     |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/openai-tools-youre-not-using-but-should-be-2823b46c59e3)**                                                   |
-| AI and Ethics: How We Avoid Building the Wrong Future |  👁️ 300+  | **[👉 Medium](https://medium.com/@orewa.kai/ai-and-ethics-how-we-avoid-building-the-wrong-future-37e376793eb8)** |
-
-<!-- BLOG-POST-LIST:END -->
+<sub>Built with code, caffeine, curiosity & a questionable amount of anime.</sub>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Blog Section -->
-
-<!-- Youtube Section -->
-<div align="center">
-<h2> Latest Projects : <a href = "https://github.com/ICLIPTER?tab=repositories">For More</a></h2>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-
-</div>
-<!-- Youtube Section -->
-
-<!-- Footer -->
-<p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
-</p>
-<!-- Footer -->
-
-<!-- Projects and Repository -->
-
-<div align='center'>
-
-<h4 align="center"> ✨ Most Stars Repositories</h4>
-
-![](https://m3-markdown-badges.vercel.app/stars/1/1/ICLIPTER/StoreForge-E-comm-App)
-![](https://m3-markdown-badges.vercel.app/stars/3/2/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=StoreForge-E-comm-APP&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/StoreForge-E-comm-App)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=Fullstack-Netflix-Clone-with-AI-Recommendations&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
-
-<h4 align="center"> 🏆 Open Source Repositories</h4>
-
-![](https://m3-markdown-badges.vercel.app/stars/5/3/ICLIPTER/github-finder)
-![](https://m3-markdown-badges.vercel.app/stars/8/2/ICLIPTER/bibek-s-portfolio)
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ICLIPTER&repo=github-finder&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/github-finder)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ICLIPTER&repo=bibek-s-portfolio&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/bibek-s-portfolio)
-
-</div>
-
-<div align="center">
-<a href="https://buymeacoffee.com/bibeksabat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-</div>
-
-<div align="center">
- 
-Donate if you wish to support 💗: 
-**[[Buy Me a Book](https://buymeacoffee.com/bibeksabat)]**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
