@@ -18,7 +18,7 @@
 
 <!-- Poster & Links -->
 <div align="center">
-<a href="https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png"><img align='center' src= "[https://i.postimg.cc/Yq8DWwHz/Untitled-design.png](https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png)" width="80%"></a> 
+<a href="https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png"><img align='center' src= "https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png" width="80%"></a> 
 </div>
 
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
