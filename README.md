@@ -98,10 +98,14 @@
 
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=iclipter&label=Profile%20views&color=0e75b6&style=flat" alt="iclipter" /> <br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/iclipter"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/iclipter">
-</p>
+ <!-- Luffy GIF -->
+  <p align="center">
+    <img
+      src="https://media.tenor.com/BTQrs8KFkz8AAAAi/sparxie-lonely-lonely-dance.gif"
+      width="600px"
+      alt="Luffy"
+    />
+  </p>
 
 ## 💜 GitHub Analytics
 
