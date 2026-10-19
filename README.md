@@ -1,28 +1,15 @@
-
+  <!-- Animated Header -->
 <div align="center">
-    <a>
-         <img
-        alt="typograssy"
-        src="https://typograssy.deno.dev/api?text=BIBEK.SABAT-FULLSTACK.DEVELOPER.WELCOME.TO.MY.GITHUB.PROFILE........&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment="
-    />
-    <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=1C8C8C">
-        <a href="https://bibeksabat.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
-        </a>
-    </p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,20:210047,45:4B00B5,70:8A00FF,100:D500FF&height=220&section=header&text=BIBEK%20SABAT&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
+    width="100%"
+    alt="Bibek Sabat"
+  />
 </div>
 
 
-
-<!-- Poster & Links -->
-<div align="center">
-<a href="https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png"><img align='center' src= "https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png" width="80%"></a> 
-</div>
-
+ <!-- Profile links -->
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
-
 <div align="center">
   <a href="https://drive.google.com/file/d/1YJaPvQYLbrgMC00XME4DI3bvT4wmUjRR/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-%40Bibek-blue?style=for-the-badge" />
@@ -33,8 +20,21 @@
   <a href="https://medium.com/@orewa.kai">
     <img src="https://img.shields.io/badge/Blogs-Medium-green?style=for-the-badge" />
   </a>
+  <a href="https://www.deviantart.com/iclipter">
+    <img src="https://img.shields.io/badge/art-Arts-yellow?style=for-the-badge" />
+  </a>
 </div>
 
+<!-- Changing Text 2 -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=BF00FF&center=true&vCenter=true&width=700&lines=Music+%7C+Linux+%7C+Art+%7C+Science;Programming+%7C+Animation+%7C+Video+Editing;Web+Development+%7C+Game+Development;UI%2FUX+Design+%7C+3D+Modeling+%7C+Digital+Art;Photography+%7C+Gaming+%7C+Technology;Open+Source+%7C+Cybersecurity+%7C+AI;Machine+Learning+%7C+Cloud+Computing+%7C+DevOps;Creative+Coding+%7C+Problem+Solving+%7C+Innovation" alt="Typing SVG" />
+  
+<!-- Poster & Links -->
+<div align="center">
+<a href="https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png"><img align='center' src= "https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png" width="100%"></a> 
+</div>
+
+<br> 
 
  <!-- Heading and BIO -->
 <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
@@ -42,67 +42,112 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%7C+React+%7C+Node.js;Building+Innovative+Web+Experiences" alt="Typing SVG" />
 
+
+
+ <!-- Solo leveling header gif -->
 <p align='center'>
 <img align='center' src= "https://giffiles.alphacoders.com/221/221575.gif" width="600px"  >
 </p>
- 
-- 🔭  I’m Currently learning **to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
-
-- 👯 I’m looking to collaborate on: **Fullstack projects**
-
-- 💬 Ask me about: **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
-
-- ⚡ Fun fact: **I write better code at 2AM than I do after 2 cups of coffee ☕💻**
-<p align="left">
-</p>
-
 </div>
 
- <!-- Profile Views - Waka Time Stats - Followers & Stars -->
+<!-- Extra Details -->
+<table>
+  <tr>
+<!-- Itachi GIf -->
+    <td width="30%" align="center" valign="middle">
+      <img
+        src="./assets/itachi.gif" width="220" alt="Itachi Uchiha"
+      />
+    </td>
+    <td width="70%" valign="middle">
 
+<h2>🚀 About Me</h2>
+
+<p>
+  🔭 I’m currently learning <strong>to integrate advanced AI technologies
+  into my projects and become more proficient in modern web application development.</strong>
+</p>
+
+<p>
+  👯 I’m looking to collaborate on <strong>Full Stack projects</strong>
+  and creative software projects.
+</p>
+
+<p>
+  💬 Ask me about <strong>JavaScript, React, Next.js, Node.js, AWS,
+  and general software development.</strong>
+</p>
+
+<p>
+  ⚡ Fun fact: <strong>I write better code at 2AM than I do after
+  2 cups of coffee ☕💻</strong>
+</p>
+<p>
+  🎨 I’m exploring <strong>Digital Arts, creative coding, generative art,
+  and AI-powered visual experiences.</strong>
+</p>
+
+<p>
+  🚀 I love experimenting with <strong>new technologies, building
+  cool side projects, and turning random ideas into something people
+  can actually use.</strong>
+</p>
+    </td>
+  </tr>
+</table>
+
+
+ <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=iclipter&label=Profile%20views&color=0e75b6&style=flat" alt="iclipter" /> <br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/iclipter"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/iclipter">
 </p>
 
- <!-- Profile Views - Waka Time Stats - Followers & Stars -->
+## 💜 GitHub Analytics
 
+ <!-- Luffy GIF -->
+  <p align="center">
+    <img
+      src="/assets/luffy.gif"
+      width="600px"
+      alt="Luffy"
+    />
+  </p>
 
-## 📊 GitHub Analytics
-
-  <!-- Stats Cards Row 2 -->
+  <br>
+  
+  <!-- Language & Productivity Stats -->
   <table>
     <tr>
-      <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ICLIPTER&theme=tokyonight" 
-          alt="Repos per Language" 
+      <td align="center" width="33%">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ICLIPTER&theme=tokyonight"
+          alt="Repositories per Language"
         />
       </td>
-      <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ICLIPTER&theme=tokyonight" 
-          alt="Most Commit Language" 
+      <td align="center" width="33%">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ICLIPTER&theme=tokyonight"
+          alt="Most Used Languages by Commits"
         />
       </td>
-      <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ICLIPTER&theme=tokyonight&utcOffset=5.5" 
-          alt="Productive Time" 
+      <td align="center" width="33%">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ICLIPTER&theme=tokyonight&utcOffset=5.5"
+          alt="Productive Time"
         />
       </td>
     </tr>
   </table>
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ICLIPTER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" 
-    alt="GitHub Streak" 
+  <br>
+  <!-- GitHub Profile Summary -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=tokyonight"
+    width="95%"
+    alt="GitHub Profile Summary"
   />
-
 </div>
 
----
 
 <!-- Contact Section -->
 
@@ -232,7 +277,6 @@
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 <img align="left" src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"  width="160px" height="160px">
 </p>
-<!-- Contribution Statistics and Visuals -->
 
 <!-- Activity Graph -->
 
@@ -312,7 +356,6 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-
 </div>
 <!-- Youtube Section -->
 
@@ -322,27 +365,136 @@
 </p>
 <!-- Footer -->
 
-<!-- Projects and Repository -->
+<!-- 🚀 Featured Projects -->
+<div align="center">
 
-<div align='center'>
+<h2>🚀 Featured Projects</h2>
 
-<h4 align="center"> ✨ Most Stars Repositories</h4>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![](https://m3-markdown-badges.vercel.app/stars/1/1/ICLIPTER/StoreForge-E-comm-App)
-![](https://m3-markdown-badges.vercel.app/stars/3/2/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
+### 🎓 Ucademy
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=StoreForge-E-comm-APP&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/StoreForge-E-comm-App)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=Fullstack-Netflix-Clone-with-AI-Recommendations&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
+A production-ready Learning Management System built with modern full-stack technologies.
 
-<h4 align="center"> 🏆 Open Source Repositories</h4>
+**Next.js 15 • TypeScript • Prisma • Neon PostgreSQL**
 
-![](https://m3-markdown-badges.vercel.app/stars/5/3/ICLIPTER/github-finder)
-![](https://m3-markdown-badges.vercel.app/stars/8/2/ICLIPTER/bibek-s-portfolio)
+<a href="https://github.com/ICLIPTER/Ucademy">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ICLIPTER&repo=github-finder&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/github-finder)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ICLIPTER&repo=bibek-s-portfolio&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/bibek-s-portfolio)
+</td>
+
+<td width="50%" valign="top">
+
+### 🌙 Lunaris
+
+A modern TypeScript project focused on building a polished and scalable web experience.
+
+**TypeScript • Modern Web Development**
+
+<a href="https://github.com/ICLIPTER/Lunaris">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Arqive
+
+A modern TypeScript project showcasing contemporary frontend development.
+
+**TypeScript • Modern UI • Web Development**
+
+<a href="https://github.com/ICLIPTER/Arqive">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 Netflix Clone AI
+
+A full-stack Netflix clone with Gemini AI-powered mood-based movie recommendations.
+
+**MERN • Gemini AI • TMDB • Authentication**
+
+<a href="https://github.com/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Noesis
+
+An AI-powered search platform inspired by DeepSeek, built for intelligent and context-aware search.
+
+**Next.js • JavaScript • DeepSeek API**
+
+<a href="https://github.com/ICLIPTER/noesis">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⛏️ Minecraft Clone
+
+A 3D voxel game built from scratch using C++ and OpenGL.
+
+**C++ • OpenGL • 3D Graphics**
+
+<a href="https://github.com/ICLIPTER/Minecraft-Clone">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️ Blockchain Simulation
+
+An interactive blockchain simulation with a FastAPI backend and React frontend.
+
+**Python • FastAPI • React • TailwindCSS**
+
+<a href="https://github.com/ICLIPTER/Blockchain-Simulation">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔎 GitHub Finder
+
+Search GitHub users and explore their profiles, repositories, and activity.
+
+**JavaScript • GitHub API • Web Development**
+
+<a href="https://github.com/ICLIPTER/github-finder">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+</table>
 
 </div>
+
 
 <div align="center">
 <a href="https://buymeacoffee.com/bibeksabat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
