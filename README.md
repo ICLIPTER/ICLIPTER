@@ -102,7 +102,7 @@
   <p align="center">
     <img
       src="https://media.tenor.com/BTQrs8KFkz8AAAAi/sparxie-lonely-lonely-dance.gif"
-      width="600px"
+      width="100px"
       alt="Luffy"
     />
   </p>
