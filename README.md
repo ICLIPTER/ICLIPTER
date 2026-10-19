@@ -99,11 +99,11 @@
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
  <!-- Luffy GIF -->
-  <p align="center">
+  <p align="left">
     <img
       src="https://media.tenor.com/BTQrs8KFkz8AAAAi/sparxie-lonely-lonely-dance.gif"
       width="100px"
-      alt="Luffy"
+      alt="dance"
     />
   </p>
 
